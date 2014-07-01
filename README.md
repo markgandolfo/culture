@@ -1,4 +1,4 @@
-# Culture and Ethos (WIP)
+# Culture and Ethos (Work in progress)
 
 Creative/knowledge-based professionals excel in certain kinds of environments.
 How communication happens, leadership forms, and decisions are made all have a
